@@ -1,0 +1,14 @@
+langchain
+langgraph
+langchain-google-genai
+langchain-openai
+langchain-anthropic
+crewai
+pydantic
+python-dotenv
+pytest
+loguru
+rich
+chromadb
+anthropic
+sentence-transformers
