@@ -590,6 +590,3 @@ python main.py chat.txt --speaker "Alice" --output results/ --chunk-size 40 --ti
 - [ ] **Report Diff** — Show how a profile changes with new data
 - [ ] **API Server** — REST API to run analyses programmatically
 
----
-
-*Built with ❤️ using Python, Claude (Anthropic), ChromaDB, and 26 specialized psychological micro-agents.*
